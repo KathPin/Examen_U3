@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Calculadora_De_Coordenadas" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
